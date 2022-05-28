@@ -1,4 +1,4 @@
-# Simple Python Shell for UoEo SSDS Module
+# Simple Python Shell for UoEo SSDCS Module
 
 This is a command line application that provides three functions:
 
